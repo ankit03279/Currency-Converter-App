@@ -87,3 +87,7 @@ form input{
     margin-top: 1rem;
     cursor: pointer;
   }
+ form button:hover {
+     border : 2px solid #af4d98;
+ }
+    
